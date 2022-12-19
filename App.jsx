@@ -14,7 +14,7 @@ function App() {
           <a
             href="https://bernhardhustomo.com"
             class="pointer-events-auto no-underline"
-          >here</a>
+          > here</a>
         </marquee>
         <div class="mx-3 my-0 flex justify-between">
           {/* for top navigation */}

@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  content: ["*.{html,js}"],
+  content: ["*.{html,js,jsx}"],
   theme: {
     fontFamily: {
       'eaves': ['mrs-eaves-roman-lining', 'serif']

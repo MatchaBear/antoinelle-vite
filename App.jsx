@@ -23,7 +23,7 @@ function App() {
             <a href="/">
               <img
                 class="h-8"
-                src={require('./assets/images/antoinelle-logo-beige.png')}
+                src="./assets/images/antoinelle-logo-beige.png"
                 alt="antoinelle"
               />
             </a>
